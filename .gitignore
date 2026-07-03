@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+decoded.txt
+decoded.json
+out.xml
+*.pkt
+*.pka
+results/
+result/
+output/
+.agents/
