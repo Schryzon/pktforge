@@ -9,3 +9,4 @@ results/
 result/
 output/
 .agents/
+*.dll
